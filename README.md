@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FreeScout is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://freescout.net/
+FreeScout is an open-source help desk and shared inbox solution built with PHP (Laravel). It offers omnichannel support via email, WhatsApp, Telegram, Facebook, Slack, live chat, and more. Features include AI‑powered assistance, unlimited agents, multi‑language UI, SAML SSO, OAuth for Microsoft 365 and Google Workspace, web‑push notifications, and extensive integrations via Zapier, Make, and custom modules. The platform is self‑hosted, privacy‑focused, and includes a REST API and webhooks for automation.
+
+**Areas:** Company · HelpDesk · OpenSource · PHP · Laravel
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://freescout.net/)
+- [Documentation](https://api-docs.freescout.net/)
+- [Changelog](https://github.com/freescout-helpdesk/freescout/wiki/Releases)
+- [Blog](https://freescout.net/blog/category/news/)
+- [Security](https://freescout.net/security/)
+- [Terms of service](https://freescout.net/legal/terms/)
+- [Privacy policy](https://freescout.net/legal/privacy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/freescout/](https://apis.io/providers/freescout/).
